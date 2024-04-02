@@ -17,4 +17,4 @@
 
 ## Authors
 - Angel Carrasquillo - 8990@holbetonschoolstudents.com
-- Vonzell S. Carson - (Insert gmail here)
+- Vonzell S. Carson - vonzellcarson@yahoo.com
