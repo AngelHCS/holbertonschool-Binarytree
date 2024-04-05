@@ -18,15 +18,15 @@ binary_tree_t *binary_tree_uncle(binary_tree_t *node)
 	grandparent = parent->parent;
 
 	if (grandparent->left == parent)
-    {
+	{
 		return (grandparent->right);
-    }
+}
 	else if (grandparent->right == parent)
-    {
+{
 		return (grandparent->left);
-    }
+}
 	else
-    {
+{
 		return (NULL);
-	}
+}
 }
